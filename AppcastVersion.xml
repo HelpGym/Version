@@ -5,7 +5,7 @@
         <item>
             <title>Version 1.0.2</title>
             <description>Correction de l'icône de lancement qui s'affichait mal sur certains appareils
-                Apport de correctifs sur la notation
+Apport de correctifs sur la notation
             </description>
             <pubDate>Lun, 20 Fev 2023 14:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.helpgym.HelpGym" sparkle:version="1.0.2" sparkle:os="android" />
