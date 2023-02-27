@@ -4,10 +4,11 @@
         <title>Debt Now App - Appcast</title>
         <item>
             <title>Version 1.0.2</title>
-            <description>Correction de l'icône de lancement qui s'affichait mal sur certains appareils
-Correction de l'export PDF qui stoppait l'application
+            <description>Nouvelle fonctionnalité d'auto-évaluation
+Modifications du menu résultats
+Autres correctifs mineurs
             </description>
-            <pubDate>Lun, 20 Fev 2023 14:00:00 +0000</pubDate>
+            <pubDate>Mar, 28 Fev 2023 14:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.helpgym.HelpGym" sparkle:version="1.0.2" sparkle:os="android" />
         </item>
     </channel>
