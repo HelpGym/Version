@@ -3,13 +3,13 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.0.2</title>
+            <title>Version 1.0.3</title>
             <description>Nouvelle fonctionnalité d'auto-évaluation
 Modifications du menu résultats
 Autres correctifs mineurs
             </description>
             <pubDate>Mar, 28 Fev 2023 14:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.helpgym.HelpGym" sparkle:version="1.0.2" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.helpgym.HelpGym" sparkle:version="1.0.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
