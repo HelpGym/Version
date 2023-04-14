@@ -3,13 +3,11 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.0.8</title>
-            <description>Nouvelle fonctionnalité : Quiz !
-Amélioration de la recherche d'éléments en incluant les noms généralement utilisés (soleil, lune, passement filé...etc)
-Autres correctifs
+            <title>Version 1.0.9</title>
+            <description>Correctifs mineurs
             </description>
-            <pubDate>Sam, 08 Avril 2023 10:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.helpgym.HelpGym" sparkle:version="1.0.8" sparkle:os="android" />
+            <pubDate>Sam, 14 Avril 2023 10:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.helpgym.HelpGym" sparkle:version="1.0.9" sparkle:os="android" />
         </item>
     </channel>
 </rss>
