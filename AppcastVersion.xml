@@ -3,15 +3,16 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.2.0</title>
-            <description>(Nouveau) Un abonnement est disponible pour accéder à toutes les fonctionnalités
+            <title>Version 1.2.11</title>
+            <description>Problème d'images sorties poutre Fed B résolu
+(Nouveau) Un abonnement est disponible pour accéder à toutes les fonctionnalités
 (Nouveau) Les feuilles de match sont disponibles pour les abonnés
 (Nouveau) Les fiches gymnastes sont disponibles pour les abonnés
 (Nouveau) Les statistiques sont disponibles pour les abonnés
 (Nouveau) Stockage de mouvements augmenté/illimité pour les abonnés
             </description>
-            <pubDate>Jeu, 2 Nov 2023 14:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.helpgym.HelpGym" sparkle:version="1.2.0" sparkle:os="android" />
+            <pubDate>Lun, 6 Nov 2023 09:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.helpgym.HelpGym" sparkle:version="1.2.11" sparkle:os="android" />
         </item>
     </channel>
 </rss>
