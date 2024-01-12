@@ -3,13 +3,12 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.2.16</title>
-            <description>1. Correctifs affichage promotions
-2. Préparation ouverture Quiz Compétition
-3. Modifications éléments GAF
+            <title>Version 1.2.17</title>
+            <description>1. Les feuilles de match prennent désormais en compte la catégorie sélectionnée
+2. Ajout de demande de consentement pour les publicités
             </description>
-            <pubDate>Jeu, 28 Dec 2023 10:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.helpgym.HelpGym" sparkle:version="1.2.16" sparkle:os="android" />
+            <pubDate>Ven, 12 Jan 2024 10:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.helpgym.HelpGym" sparkle:version="1.2.17" sparkle:os="android" />
         </item>
     </channel>
 </rss>
